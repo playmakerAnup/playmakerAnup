@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @playmakerAnup
 - 👀 I’m interested in technologies that enhance user experience. Inclined more towards Java. Spring boot, Spring Cloud, Microservices, AWS, Angular and many more
 - 🌱 I’m currently learning performance improvement and fine tuning production ready spring applications 
-- 💞️ I’m looking to collaborate on open source projects which beenfit the developer community as a whole.
+- 💞️ I’m looking to collaborate on open source projects which benefit the developer community as a whole.
 - 📫 Reach me at nairanup2015@gmail.com
 
 <!---
